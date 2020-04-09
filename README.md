@@ -1,7 +1,5 @@
 # Security
-
-## Motivation
-- Writing notes for learning how to build a secure web service.
+Writing notes for learning how to build a secure web service. Discussing web server security features.
 
 ## Key Questions
 - What happens if the file are not encypted?
@@ -70,8 +68,6 @@
     The user of eshop's cookie will automatically send to badguys.com, which is a tragety.
 
 # Scalability
-
-## Motivation
 * Writing notes for learning how to design a large Scale System.
 * Compare feartures, understand there pros and cons.
 
