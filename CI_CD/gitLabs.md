@@ -63,7 +63,7 @@ server-deploy-master:
   only:
     - master
   script:
-    - export KUBECONFIG=$LAB3_KUBECONFIG
+    - export KUBECONFIG=$KUBECONFIG
     - sed -it "s/___ repace in k8s yaml/$CI_PIPELINE_ID/g" server/deploy/deploy.yaml
     - kubectl apply -f server/deploy/deploy.yaml -n user-yiming-chang
 
