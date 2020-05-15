@@ -1,8 +1,9 @@
 # Table of Contents
-* Distributes
-- Design Web Service
 
-* Tools
-- Docker
-- Kubernetes
-- Gitlab CI/CD
+## Distributed System
+   - Design Web Service
+
+## System tools
+   - Docker
+   - Kubernetes
+   - Gitlab CI/CD
