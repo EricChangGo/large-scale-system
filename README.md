@@ -7,3 +7,7 @@
     - Docker
     - Kubernetes
     - Gitlab CI/CD
+
+### Priority Queue & Multiprocess
+    - Celery
+    - TODO: rabbitmq
